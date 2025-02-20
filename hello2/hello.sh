@@ -1,5 +1,4 @@
 #!/bin/bash
 set -eu
-echo "Hello,Workd!"
+figlet "It works!"
 exec sleep infinity
- 
